@@ -1,0 +1,11 @@
+*{
+    /* background: #000; */
+}
+body{
+    
+    background: url(https://images.pexels.com/photos/1687575/pexels-photo-1687575.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+     /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}    
